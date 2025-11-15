@@ -1,4 +1,9 @@
-# 💫 About Me:<br>🔭 I’m currently working on MERN stack projects  <br> <br>👯 I’m looking to collaborate on full-stack apps and API development  <br><br>🌱 I’m currently learning advanced React patterns, JWT auth & MongoDB aggregation  <br><br>💬 Ask me about MERN Stack, React, Node.js, Express, MongoDB, APIs  <br><br>⚡ Fun fact: I love turning complex ideas into clean, scalable applications  <br>
+# 💫 About Me:<br>
+🔭 I’m currently working on MERN stack projects  <br> 
+👯 I’m looking to collaborate on full-stack apps and API development  <br>
+🌱 I’m currently learning advanced React patterns, JWT auth & MongoDB aggregation  <br>
+💬 Ask me about MERN Stack, React, Node.js, Express, MongoDB, APIs  <br>
+⚡ Fun fact: I love turning complex ideas into clean, scalable applications  <br>
 
 
 ## 🌐 Socials:
