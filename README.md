@@ -2,20 +2,9 @@
 
 I’m a **Full-Stack MERN Developer** passionate about building **scalable, maintainable web applications** and **well-structured APIs**. I enjoy transforming complex requirements into **clean, efficient solutions** that are easy to extend and maintain.
 
----
-
 ## 🚀 What I’m Working On
 - Developing **real-world MERN stack projects**
 - Designing **secure RESTful APIs** with **authentication & authorization**
-
----
-
-## 🧠 Currently Learning
-- **Advanced React patterns** & performance optimization
-- **JWT authentication** and **role-based access control**
-- **MongoDB aggregation** & data modeling
-
----
 
 ## 🤝 Open to Collaboration On
 - **Full-stack web applications**
