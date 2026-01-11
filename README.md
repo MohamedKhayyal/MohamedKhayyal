@@ -1,9 +1,26 @@
-# 💫 About Me:<br>
-🔭 I’m currently working on MERN stack projects  <br> 
-👯 I’m looking to collaborate on full-stack apps and API development  <br>
-🌱 I’m currently learning advanced React patterns, JWT auth & MongoDB aggregation  <br>
-💬 Ask me about MERN Stack, React, Node.js, Express, MongoDB, APIs  <br>
-⚡ Fun fact: I love turning complex ideas into clean, scalable applications  <br>
+## 👋 About Me
+
+I’m a **Full-Stack MERN Developer** passionate about building **scalable, maintainable web applications** and **well-structured APIs**. I enjoy transforming complex requirements into **clean, efficient solutions** that are easy to extend and maintain.
+
+---
+
+## 🚀 What I’m Working On
+- Developing **real-world MERN stack projects**
+- Designing **secure RESTful APIs** with **authentication & authorization**
+
+---
+
+## 🧠 Currently Learning
+- **Advanced React patterns** & performance optimization
+- **JWT authentication** and **role-based access control**
+- **MongoDB aggregation** & data modeling
+
+---
+
+## 🤝 Open to Collaboration On
+- **Full-stack web applications**
+- **Backend systems & API development**
+
 
 
 ## 🌐 Socials:
